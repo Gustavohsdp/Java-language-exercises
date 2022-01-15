@@ -1,0 +1,2 @@
+Após ser realizado as alterações, não teve alteração na execução do programa, mesmo mudando a herança de Exception para RuntimeException
+e também realizando a remoção do tramento do erro do programa.
